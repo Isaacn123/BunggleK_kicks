@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "facebook_api_tokens",
+  "info": {
+    "singularName": "facebook-api-token",
+    "pluralName": "facebook-api-tokens",
+    "displayName": "FacebookAPI_Token"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "access_token": {
+      "type": "text"
+    }
+  }
+}
