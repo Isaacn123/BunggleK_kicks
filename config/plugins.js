@@ -10,7 +10,8 @@ module.exports = ({ env })=> ({
                  upload_preset: env('CLOUDINARY_UPLOAD_PRESET'),
              },
              actionOptions:{
-                 upload:{
+                 upload:{},
+                 uploadStream: {
                     folder: "BUNGGLEKICKS",
                  },
                  delete:{},

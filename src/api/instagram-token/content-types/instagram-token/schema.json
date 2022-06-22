@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "instagram_tokens",
+  "info": {
+    "singularName": "instagram-token",
+    "pluralName": "instagram-tokens",
+    "displayName": "Instagram_Token"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "access_token": {
+      "type": "text"
+    }
+  }
+}
