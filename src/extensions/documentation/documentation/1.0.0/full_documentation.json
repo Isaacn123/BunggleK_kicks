@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-06-23T01:07:00.485Z"
+    "x-generation-date": "2022-06-23T10:42:47.607Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -530,9 +530,6 @@
                                         }
                                       }
                                     }
-                                  },
-                                  "colors": {
-                                    "type": "string"
                                   },
                                   "price": {
                                     "type": "number",
@@ -1159,6 +1156,19 @@
                                   "slug": {
                                     "type": "string"
                                   },
+                                  "colors": {
+                                    "type": "string",
+                                    "enum": [
+                                      "        grey",
+                                      "        Old Pink",
+                                      "        Davy Black",
+                                      "        Periwinkle Grey",
+                                      "        Greenish Yellow",
+                                      "        Brown",
+                                      "        Pink Flare",
+                                      "        Dark Grey"
+                                    ]
+                                  },
                                   "createdAt": {
                                     "type": "string",
                                     "format": "date-time"
@@ -1698,9 +1708,6 @@
                                       }
                                     }
                                   }
-                                },
-                                "colors": {
-                                  "type": "string"
                                 },
                                 "price": {
                                   "type": "number",
@@ -2326,6 +2333,19 @@
                                 },
                                 "slug": {
                                   "type": "string"
+                                },
+                                "colors": {
+                                  "type": "string",
+                                  "enum": [
+                                    "        grey",
+                                    "        Old Pink",
+                                    "        Davy Black",
+                                    "        Periwinkle Grey",
+                                    "        Greenish Yellow",
+                                    "        Brown",
+                                    "        Pink Flare",
+                                    "        Dark Grey"
+                                  ]
                                 },
                                 "createdAt": {
                                   "type": "string",
@@ -3809,7 +3829,9 @@
         ],
         "properties": {
           "data": {
-            "required": [],
+            "required": [
+              "colors"
+            ],
             "type": "object",
             "properties": {
               "name": {
@@ -3831,9 +3853,6 @@
                   ],
                   "example": "string or id"
                 }
-              },
-              "colors": {
-                "type": "string"
               },
               "price": {
                 "type": "number",
@@ -3869,6 +3888,19 @@
               },
               "slug": {
                 "type": "string"
+              },
+              "colors": {
+                "type": "string",
+                "enum": [
+                  "        grey",
+                  "        Old Pink",
+                  "        Davy Black",
+                  "        Periwinkle Grey",
+                  "        Greenish Yellow",
+                  "        Brown",
+                  "        Pink Flare",
+                  "        Dark Grey"
+                ]
               }
             }
           }
@@ -4266,9 +4298,6 @@
                           }
                         }
                       }
-                    },
-                    "colors": {
-                      "type": "string"
                     },
                     "price": {
                       "type": "number",
@@ -4684,9 +4713,6 @@
                                                     }
                                                   }
                                                 }
-                                              },
-                                              "colors": {
-                                                "type": "string"
                                               },
                                               "price": {
                                                 "type": "number",
@@ -5240,6 +5266,19 @@
                                               "slug": {
                                                 "type": "string"
                                               },
+                                              "colors": {
+                                                "type": "string",
+                                                "enum": [
+                                                  "        grey",
+                                                  "        Old Pink",
+                                                  "        Davy Black",
+                                                  "        Periwinkle Grey",
+                                                  "        Greenish Yellow",
+                                                  "        Brown",
+                                                  "        Pink Flare",
+                                                  "        Dark Grey"
+                                                ]
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -5370,6 +5409,19 @@
                     },
                     "slug": {
                       "type": "string"
+                    },
+                    "colors": {
+                      "type": "string",
+                      "enum": [
+                        "        grey",
+                        "        Old Pink",
+                        "        Davy Black",
+                        "        Periwinkle Grey",
+                        "        Greenish Yellow",
+                        "        Brown",
+                        "        Pink Flare",
+                        "        Dark Grey"
+                      ]
                     },
                     "createdAt": {
                       "type": "string",
@@ -5838,9 +5890,6 @@
                       }
                     }
                   },
-                  "colors": {
-                    "type": "string"
-                  },
                   "price": {
                     "type": "number",
                     "format": "float"
@@ -6255,9 +6304,6 @@
                                                   }
                                                 }
                                               }
-                                            },
-                                            "colors": {
-                                              "type": "string"
                                             },
                                             "price": {
                                               "type": "number",
@@ -6811,6 +6857,19 @@
                                             "slug": {
                                               "type": "string"
                                             },
+                                            "colors": {
+                                              "type": "string",
+                                              "enum": [
+                                                "        grey",
+                                                "        Old Pink",
+                                                "        Davy Black",
+                                                "        Periwinkle Grey",
+                                                "        Greenish Yellow",
+                                                "        Brown",
+                                                "        Pink Flare",
+                                                "        Dark Grey"
+                                              ]
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -6941,6 +7000,19 @@
                   },
                   "slug": {
                     "type": "string"
+                  },
+                  "colors": {
+                    "type": "string",
+                    "enum": [
+                      "        grey",
+                      "        Old Pink",
+                      "        Davy Black",
+                      "        Periwinkle Grey",
+                      "        Greenish Yellow",
+                      "        Brown",
+                      "        Pink Flare",
+                      "        Dark Grey"
+                    ]
                   },
                   "createdAt": {
                     "type": "string",
@@ -8686,9 +8758,6 @@
                                                               }
                                                             }
                                                           },
-                                                          "colors": {
-                                                            "type": "string"
-                                                          },
                                                           "price": {
                                                             "type": "number",
                                                             "format": "float"
@@ -8808,6 +8877,19 @@
                                                           },
                                                           "slug": {
                                                             "type": "string"
+                                                          },
+                                                          "colors": {
+                                                            "type": "string",
+                                                            "enum": [
+                                                              "        grey",
+                                                              "        Old Pink",
+                                                              "        Davy Black",
+                                                              "        Periwinkle Grey",
+                                                              "        Greenish Yellow",
+                                                              "        Brown",
+                                                              "        Pink Flare",
+                                                              "        Dark Grey"
+                                                            ]
                                                           },
                                                           "createdAt": {
                                                             "type": "string",
@@ -9844,9 +9926,6 @@
                                                             }
                                                           }
                                                         },
-                                                        "colors": {
-                                                          "type": "string"
-                                                        },
                                                         "price": {
                                                           "type": "number",
                                                           "format": "float"
@@ -9966,6 +10045,19 @@
                                                         },
                                                         "slug": {
                                                           "type": "string"
+                                                        },
+                                                        "colors": {
+                                                          "type": "string",
+                                                          "enum": [
+                                                            "        grey",
+                                                            "        Old Pink",
+                                                            "        Davy Black",
+                                                            "        Periwinkle Grey",
+                                                            "        Greenish Yellow",
+                                                            "        Brown",
+                                                            "        Pink Flare",
+                                                            "        Dark Grey"
+                                                          ]
                                                         },
                                                         "createdAt": {
                                                           "type": "string",
@@ -10745,9 +10837,6 @@
                                                                             }
                                                                           }
                                                                         },
-                                                                        "colors": {
-                                                                          "type": "string"
-                                                                        },
                                                                         "price": {
                                                                           "type": "number",
                                                                           "format": "float"
@@ -11118,6 +11207,19 @@
                                                                         },
                                                                         "slug": {
                                                                           "type": "string"
+                                                                        },
+                                                                        "colors": {
+                                                                          "type": "string",
+                                                                          "enum": [
+                                                                            "        grey",
+                                                                            "        Old Pink",
+                                                                            "        Davy Black",
+                                                                            "        Periwinkle Grey",
+                                                                            "        Greenish Yellow",
+                                                                            "        Brown",
+                                                                            "        Pink Flare",
+                                                                            "        Dark Grey"
+                                                                          ]
                                                                         },
                                                                         "createdAt": {
                                                                           "type": "string",
@@ -11932,9 +12034,6 @@
                                                                           }
                                                                         }
                                                                       },
-                                                                      "colors": {
-                                                                        "type": "string"
-                                                                      },
                                                                       "price": {
                                                                         "type": "number",
                                                                         "format": "float"
@@ -12305,6 +12404,19 @@
                                                                       },
                                                                       "slug": {
                                                                         "type": "string"
+                                                                      },
+                                                                      "colors": {
+                                                                        "type": "string",
+                                                                        "enum": [
+                                                                          "        grey",
+                                                                          "        Old Pink",
+                                                                          "        Davy Black",
+                                                                          "        Periwinkle Grey",
+                                                                          "        Greenish Yellow",
+                                                                          "        Brown",
+                                                                          "        Pink Flare",
+                                                                          "        Dark Grey"
+                                                                        ]
                                                                       },
                                                                       "createdAt": {
                                                                         "type": "string",
@@ -13476,9 +13588,6 @@
                                                               }
                                                             }
                                                           },
-                                                          "colors": {
-                                                            "type": "string"
-                                                          },
                                                           "price": {
                                                             "type": "number",
                                                             "format": "float"
@@ -13598,6 +13707,19 @@
                                                           },
                                                           "slug": {
                                                             "type": "string"
+                                                          },
+                                                          "colors": {
+                                                            "type": "string",
+                                                            "enum": [
+                                                              "        grey",
+                                                              "        Old Pink",
+                                                              "        Davy Black",
+                                                              "        Periwinkle Grey",
+                                                              "        Greenish Yellow",
+                                                              "        Brown",
+                                                              "        Pink Flare",
+                                                              "        Dark Grey"
+                                                            ]
                                                           },
                                                           "createdAt": {
                                                             "type": "string",
@@ -14670,9 +14792,6 @@
                                                             }
                                                           }
                                                         },
-                                                        "colors": {
-                                                          "type": "string"
-                                                        },
                                                         "price": {
                                                           "type": "number",
                                                           "format": "float"
@@ -14792,6 +14911,19 @@
                                                         },
                                                         "slug": {
                                                           "type": "string"
+                                                        },
+                                                        "colors": {
+                                                          "type": "string",
+                                                          "enum": [
+                                                            "        grey",
+                                                            "        Old Pink",
+                                                            "        Davy Black",
+                                                            "        Periwinkle Grey",
+                                                            "        Greenish Yellow",
+                                                            "        Brown",
+                                                            "        Pink Flare",
+                                                            "        Dark Grey"
+                                                          ]
                                                         },
                                                         "createdAt": {
                                                           "type": "string",

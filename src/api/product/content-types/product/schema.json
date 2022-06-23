@@ -29,9 +29,6 @@
         "audios"
       ]
     },
-    "colors": {
-      "type": "string"
-    },
     "price": {
       "type": "float"
     },
@@ -57,6 +54,20 @@
     "slug": {
       "type": "string",
       "unique": true
+    },
+    "colors": {
+      "type": "enumeration",
+      "enum": [
+        "        grey",
+        "        Old Pink",
+        "        Davy Black",
+        "        Periwinkle Grey",
+        "        Greenish Yellow",
+        "        Brown",
+        "        Pink Flare",
+        "        Dark Grey"
+      ],
+      "required": true
     }
   }
 }

@@ -71,8 +71,8 @@ export default {
         primary700: '#12d1b4',
         danger700:  '#b72b1a',
         neutral150: '#f8dbac', // DISABLED BUTTON BG
-        secondary100: '#241b2e', // INFO BOX COLOR
-        success100: '#241b2e', // SUCCESS BOX BG
+        secondary100:'#72bccb', // INFO BOX COLOR
+        success100: '#cba772', // SUCCESS BOX BG
       },
     },
   },
