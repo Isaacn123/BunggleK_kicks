@@ -1,6 +1,6 @@
 import AuthLogo from './extensions/my-logo.png';
 import MenuLogo from './extensions/logo.png';
-
+import favicon from './extensions/favicon.ico';
 export default {
   config: {
     auth: {
@@ -8,6 +8,10 @@ export default {
     },
     menu: {
       logo: MenuLogo,
+    },
+    head: {
+      favicon: favicon,
+      title: "Admin"
     },
     tutorials: false,
    // Disable notifications about new Strapi releases
