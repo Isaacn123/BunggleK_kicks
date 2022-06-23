@@ -53,6 +53,10 @@
     "did": {
       "type": "uid",
       "targetField": "name"
+    },
+    "slug": {
+      "type": "string",
+      "unique": true
     }
   }
 }
