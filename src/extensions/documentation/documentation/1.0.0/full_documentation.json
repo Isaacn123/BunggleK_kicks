@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-05T17:58:45.563Z"
+    "x-generation-date": "2022-07-05T20:07:18.336Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1168,6 +1168,13 @@
                                       "Pink Flare",
                                       "Dark Grey"
                                     ]
+                                  },
+                                  "qty": {
+                                    "type": "integer"
+                                  },
+                                  "size": {
+                                    "type": "number",
+                                    "format": "float"
                                   },
                                   "createdAt": {
                                     "type": "string",
@@ -2346,6 +2353,13 @@
                                     "Pink Flare",
                                     "Dark Grey"
                                   ]
+                                },
+                                "qty": {
+                                  "type": "integer"
+                                },
+                                "size": {
+                                  "type": "number",
+                                  "format": "float"
                                 },
                                 "createdAt": {
                                   "type": "string",
@@ -3901,6 +3915,13 @@
                   "Pink Flare",
                   "Dark Grey"
                 ]
+              },
+              "qty": {
+                "type": "integer"
+              },
+              "size": {
+                "type": "number",
+                "format": "float"
               }
             }
           }
@@ -5279,6 +5300,13 @@
                                                   "Dark Grey"
                                                 ]
                                               },
+                                              "qty": {
+                                                "type": "integer"
+                                              },
+                                              "size": {
+                                                "type": "number",
+                                                "format": "float"
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -5422,6 +5450,13 @@
                         "Pink Flare",
                         "Dark Grey"
                       ]
+                    },
+                    "qty": {
+                      "type": "integer"
+                    },
+                    "size": {
+                      "type": "number",
+                      "format": "float"
                     },
                     "createdAt": {
                       "type": "string",
@@ -6870,6 +6905,13 @@
                                                 "Dark Grey"
                                               ]
                                             },
+                                            "qty": {
+                                              "type": "integer"
+                                            },
+                                            "size": {
+                                              "type": "number",
+                                              "format": "float"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -7013,6 +7055,13 @@
                       "Pink Flare",
                       "Dark Grey"
                     ]
+                  },
+                  "qty": {
+                    "type": "integer"
+                  },
+                  "size": {
+                    "type": "number",
+                    "format": "float"
                   },
                   "createdAt": {
                     "type": "string",
@@ -8891,6 +8940,13 @@
                                                               "Dark Grey"
                                                             ]
                                                           },
+                                                          "qty": {
+                                                            "type": "integer"
+                                                          },
+                                                          "size": {
+                                                            "type": "number",
+                                                            "format": "float"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -10059,6 +10115,13 @@
                                                             "Dark Grey"
                                                           ]
                                                         },
+                                                        "qty": {
+                                                          "type": "integer"
+                                                        },
+                                                        "size": {
+                                                          "type": "number",
+                                                          "format": "float"
+                                                        },
                                                         "createdAt": {
                                                           "type": "string",
                                                           "format": "date-time"
@@ -11220,6 +11283,13 @@
                                                                             "Pink Flare",
                                                                             "Dark Grey"
                                                                           ]
+                                                                        },
+                                                                        "qty": {
+                                                                          "type": "integer"
+                                                                        },
+                                                                        "size": {
+                                                                          "type": "number",
+                                                                          "format": "float"
                                                                         },
                                                                         "createdAt": {
                                                                           "type": "string",
@@ -12417,6 +12487,13 @@
                                                                           "Pink Flare",
                                                                           "Dark Grey"
                                                                         ]
+                                                                      },
+                                                                      "qty": {
+                                                                        "type": "integer"
+                                                                      },
+                                                                      "size": {
+                                                                        "type": "number",
+                                                                        "format": "float"
                                                                       },
                                                                       "createdAt": {
                                                                         "type": "string",
@@ -13721,6 +13798,13 @@
                                                               "Dark Grey"
                                                             ]
                                                           },
+                                                          "qty": {
+                                                            "type": "integer"
+                                                          },
+                                                          "size": {
+                                                            "type": "number",
+                                                            "format": "float"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -14924,6 +15008,13 @@
                                                             "Pink Flare",
                                                             "Dark Grey"
                                                           ]
+                                                        },
+                                                        "qty": {
+                                                          "type": "integer"
+                                                        },
+                                                        "size": {
+                                                          "type": "number",
+                                                          "format": "float"
                                                         },
                                                         "createdAt": {
                                                           "type": "string",

@@ -68,6 +68,12 @@
         "Dark Grey"
       ],
       "required": true
+    },
+    "qty": {
+      "type": "integer"
+    },
+    "size": {
+      "type": "float"
     }
   }
 }
