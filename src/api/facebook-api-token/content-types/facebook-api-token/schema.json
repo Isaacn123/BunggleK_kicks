@@ -15,7 +15,7 @@
     "access_token": {
       "type": "text"
     },
-    "expiry_date": {
+    "expirydate": {
       "type": "string"
     },
     "created_on": {

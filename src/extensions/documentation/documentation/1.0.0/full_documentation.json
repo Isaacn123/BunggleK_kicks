@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-05T22:35:52.359Z"
+    "x-generation-date": "2022-07-05T22:42:07.605Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2485,7 +2485,7 @@
               "access_token": {
                 "type": "string"
               },
-              "expiry_date": {
+              "expirydate": {
                 "type": "string"
               },
               "created_on": {
@@ -2512,7 +2512,7 @@
                     "access_token": {
                       "type": "string"
                     },
-                    "expiry_date": {
+                    "expirydate": {
                       "type": "string"
                     },
                     "created_on": {
@@ -2860,7 +2860,7 @@
                   "access_token": {
                     "type": "string"
                   },
-                  "expiry_date": {
+                  "expirydate": {
                     "type": "string"
                   },
                   "created_on": {
