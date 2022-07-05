@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-05T14:02:50.597Z"
+    "x-generation-date": "2022-07-05T17:58:45.563Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1159,14 +1159,14 @@
                                   "colors": {
                                     "type": "string",
                                     "enum": [
-                                      "        grey",
-                                      "        Old Pink",
-                                      "        Davy Black",
-                                      "        Periwinkle Grey",
-                                      "        Greenish Yellow",
-                                      "        Brown",
-                                      "        Pink Flare",
-                                      "        Dark Grey"
+                                      "grey",
+                                      "Old Pink",
+                                      "Davy Black",
+                                      "Periwinkle Grey",
+                                      "Greenish Yellow",
+                                      "Brown",
+                                      "Pink Flare",
+                                      "Dark Grey"
                                     ]
                                   },
                                   "createdAt": {
@@ -2337,14 +2337,14 @@
                                 "colors": {
                                   "type": "string",
                                   "enum": [
-                                    "        grey",
-                                    "        Old Pink",
-                                    "        Davy Black",
-                                    "        Periwinkle Grey",
-                                    "        Greenish Yellow",
-                                    "        Brown",
-                                    "        Pink Flare",
-                                    "        Dark Grey"
+                                    "grey",
+                                    "Old Pink",
+                                    "Davy Black",
+                                    "Periwinkle Grey",
+                                    "Greenish Yellow",
+                                    "Brown",
+                                    "Pink Flare",
+                                    "Dark Grey"
                                   ]
                                 },
                                 "createdAt": {
@@ -3892,14 +3892,14 @@
               "colors": {
                 "type": "string",
                 "enum": [
-                  "        grey",
-                  "        Old Pink",
-                  "        Davy Black",
-                  "        Periwinkle Grey",
-                  "        Greenish Yellow",
-                  "        Brown",
-                  "        Pink Flare",
-                  "        Dark Grey"
+                  "grey",
+                  "Old Pink",
+                  "Davy Black",
+                  "Periwinkle Grey",
+                  "Greenish Yellow",
+                  "Brown",
+                  "Pink Flare",
+                  "Dark Grey"
                 ]
               }
             }
@@ -5269,14 +5269,14 @@
                                               "colors": {
                                                 "type": "string",
                                                 "enum": [
-                                                  "        grey",
-                                                  "        Old Pink",
-                                                  "        Davy Black",
-                                                  "        Periwinkle Grey",
-                                                  "        Greenish Yellow",
-                                                  "        Brown",
-                                                  "        Pink Flare",
-                                                  "        Dark Grey"
+                                                  "grey",
+                                                  "Old Pink",
+                                                  "Davy Black",
+                                                  "Periwinkle Grey",
+                                                  "Greenish Yellow",
+                                                  "Brown",
+                                                  "Pink Flare",
+                                                  "Dark Grey"
                                                 ]
                                               },
                                               "createdAt": {
@@ -5413,14 +5413,14 @@
                     "colors": {
                       "type": "string",
                       "enum": [
-                        "        grey",
-                        "        Old Pink",
-                        "        Davy Black",
-                        "        Periwinkle Grey",
-                        "        Greenish Yellow",
-                        "        Brown",
-                        "        Pink Flare",
-                        "        Dark Grey"
+                        "grey",
+                        "Old Pink",
+                        "Davy Black",
+                        "Periwinkle Grey",
+                        "Greenish Yellow",
+                        "Brown",
+                        "Pink Flare",
+                        "Dark Grey"
                       ]
                     },
                     "createdAt": {
@@ -6860,14 +6860,14 @@
                                             "colors": {
                                               "type": "string",
                                               "enum": [
-                                                "        grey",
-                                                "        Old Pink",
-                                                "        Davy Black",
-                                                "        Periwinkle Grey",
-                                                "        Greenish Yellow",
-                                                "        Brown",
-                                                "        Pink Flare",
-                                                "        Dark Grey"
+                                                "grey",
+                                                "Old Pink",
+                                                "Davy Black",
+                                                "Periwinkle Grey",
+                                                "Greenish Yellow",
+                                                "Brown",
+                                                "Pink Flare",
+                                                "Dark Grey"
                                               ]
                                             },
                                             "createdAt": {
@@ -7004,14 +7004,14 @@
                   "colors": {
                     "type": "string",
                     "enum": [
-                      "        grey",
-                      "        Old Pink",
-                      "        Davy Black",
-                      "        Periwinkle Grey",
-                      "        Greenish Yellow",
-                      "        Brown",
-                      "        Pink Flare",
-                      "        Dark Grey"
+                      "grey",
+                      "Old Pink",
+                      "Davy Black",
+                      "Periwinkle Grey",
+                      "Greenish Yellow",
+                      "Brown",
+                      "Pink Flare",
+                      "Dark Grey"
                     ]
                   },
                   "createdAt": {
@@ -8881,14 +8881,14 @@
                                                           "colors": {
                                                             "type": "string",
                                                             "enum": [
-                                                              "        grey",
-                                                              "        Old Pink",
-                                                              "        Davy Black",
-                                                              "        Periwinkle Grey",
-                                                              "        Greenish Yellow",
-                                                              "        Brown",
-                                                              "        Pink Flare",
-                                                              "        Dark Grey"
+                                                              "grey",
+                                                              "Old Pink",
+                                                              "Davy Black",
+                                                              "Periwinkle Grey",
+                                                              "Greenish Yellow",
+                                                              "Brown",
+                                                              "Pink Flare",
+                                                              "Dark Grey"
                                                             ]
                                                           },
                                                           "createdAt": {
@@ -10049,14 +10049,14 @@
                                                         "colors": {
                                                           "type": "string",
                                                           "enum": [
-                                                            "        grey",
-                                                            "        Old Pink",
-                                                            "        Davy Black",
-                                                            "        Periwinkle Grey",
-                                                            "        Greenish Yellow",
-                                                            "        Brown",
-                                                            "        Pink Flare",
-                                                            "        Dark Grey"
+                                                            "grey",
+                                                            "Old Pink",
+                                                            "Davy Black",
+                                                            "Periwinkle Grey",
+                                                            "Greenish Yellow",
+                                                            "Brown",
+                                                            "Pink Flare",
+                                                            "Dark Grey"
                                                           ]
                                                         },
                                                         "createdAt": {
@@ -11211,14 +11211,14 @@
                                                                         "colors": {
                                                                           "type": "string",
                                                                           "enum": [
-                                                                            "        grey",
-                                                                            "        Old Pink",
-                                                                            "        Davy Black",
-                                                                            "        Periwinkle Grey",
-                                                                            "        Greenish Yellow",
-                                                                            "        Brown",
-                                                                            "        Pink Flare",
-                                                                            "        Dark Grey"
+                                                                            "grey",
+                                                                            "Old Pink",
+                                                                            "Davy Black",
+                                                                            "Periwinkle Grey",
+                                                                            "Greenish Yellow",
+                                                                            "Brown",
+                                                                            "Pink Flare",
+                                                                            "Dark Grey"
                                                                           ]
                                                                         },
                                                                         "createdAt": {
@@ -12408,14 +12408,14 @@
                                                                       "colors": {
                                                                         "type": "string",
                                                                         "enum": [
-                                                                          "        grey",
-                                                                          "        Old Pink",
-                                                                          "        Davy Black",
-                                                                          "        Periwinkle Grey",
-                                                                          "        Greenish Yellow",
-                                                                          "        Brown",
-                                                                          "        Pink Flare",
-                                                                          "        Dark Grey"
+                                                                          "grey",
+                                                                          "Old Pink",
+                                                                          "Davy Black",
+                                                                          "Periwinkle Grey",
+                                                                          "Greenish Yellow",
+                                                                          "Brown",
+                                                                          "Pink Flare",
+                                                                          "Dark Grey"
                                                                         ]
                                                                       },
                                                                       "createdAt": {
@@ -13711,14 +13711,14 @@
                                                           "colors": {
                                                             "type": "string",
                                                             "enum": [
-                                                              "        grey",
-                                                              "        Old Pink",
-                                                              "        Davy Black",
-                                                              "        Periwinkle Grey",
-                                                              "        Greenish Yellow",
-                                                              "        Brown",
-                                                              "        Pink Flare",
-                                                              "        Dark Grey"
+                                                              "grey",
+                                                              "Old Pink",
+                                                              "Davy Black",
+                                                              "Periwinkle Grey",
+                                                              "Greenish Yellow",
+                                                              "Brown",
+                                                              "Pink Flare",
+                                                              "Dark Grey"
                                                             ]
                                                           },
                                                           "createdAt": {
@@ -14915,14 +14915,14 @@
                                                         "colors": {
                                                           "type": "string",
                                                           "enum": [
-                                                            "        grey",
-                                                            "        Old Pink",
-                                                            "        Davy Black",
-                                                            "        Periwinkle Grey",
-                                                            "        Greenish Yellow",
-                                                            "        Brown",
-                                                            "        Pink Flare",
-                                                            "        Dark Grey"
+                                                            "grey",
+                                                            "Old Pink",
+                                                            "Davy Black",
+                                                            "Periwinkle Grey",
+                                                            "Greenish Yellow",
+                                                            "Brown",
+                                                            "Pink Flare",
+                                                            "Dark Grey"
                                                           ]
                                                         },
                                                         "createdAt": {

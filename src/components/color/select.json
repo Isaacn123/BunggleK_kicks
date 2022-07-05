@@ -2,8 +2,17 @@
   "collectionName": "components_color_selects",
   "info": {
     "displayName": "select",
-    "icon": "angle-up"
+    "icon": "angle-up",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "color": {
+      "type": "enumeration",
+      "enum": [
+        "red",
+        "green"
+      ]
+    }
+  }
 }
