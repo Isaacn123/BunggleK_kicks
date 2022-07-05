@@ -4,7 +4,8 @@
   "info": {
     "singularName": "facebook-api-token",
     "pluralName": "facebook-api-tokens",
-    "displayName": "FacebookAPI_Token"
+    "displayName": "FacebookAPI_Token",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,6 +14,12 @@
   "attributes": {
     "access_token": {
       "type": "text"
+    },
+    "expiry_date": {
+      "type": "date"
+    },
+    "generate_on": {
+      "type": "datetime"
     }
   }
 }
