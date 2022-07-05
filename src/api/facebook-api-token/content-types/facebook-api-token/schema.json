@@ -16,10 +16,10 @@
       "type": "text"
     },
     "expiry_date": {
-      "type": "date"
+      "type": "string"
     },
-    "generate_on": {
-      "type": "datetime"
+    "created_on": {
+      "type": "string"
     }
   }
 }
