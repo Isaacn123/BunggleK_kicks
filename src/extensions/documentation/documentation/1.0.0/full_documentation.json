@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-05T22:42:07.605Z"
+    "x-generation-date": "2022-07-10T20:15:03.594Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1175,6 +1175,9 @@
                                   "size": {
                                     "type": "number",
                                     "format": "float"
+                                  },
+                                  "status": {
+                                    "type": "boolean"
                                   },
                                   "createdAt": {
                                     "type": "string",
@@ -2360,6 +2363,9 @@
                                 "size": {
                                   "type": "number",
                                   "format": "float"
+                                },
+                                "status": {
+                                  "type": "boolean"
                                 },
                                 "createdAt": {
                                   "type": "string",
@@ -3862,6 +3868,9 @@
         "properties": {
           "data": {
             "required": [
+              "name",
+              "image",
+              "featured",
               "colors"
             ],
             "type": "object",
@@ -3940,6 +3949,9 @@
               "size": {
                 "type": "number",
                 "format": "float"
+              },
+              "status": {
+                "type": "boolean"
               }
             }
           }
@@ -5325,6 +5337,9 @@
                                                 "type": "number",
                                                 "format": "float"
                                               },
+                                              "status": {
+                                                "type": "boolean"
+                                              },
                                               "createdAt": {
                                                 "type": "string",
                                                 "format": "date-time"
@@ -5475,6 +5490,9 @@
                     "size": {
                       "type": "number",
                       "format": "float"
+                    },
+                    "status": {
+                      "type": "boolean"
                     },
                     "createdAt": {
                       "type": "string",
@@ -6930,6 +6948,9 @@
                                               "type": "number",
                                               "format": "float"
                                             },
+                                            "status": {
+                                              "type": "boolean"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -7080,6 +7101,9 @@
                   "size": {
                     "type": "number",
                     "format": "float"
+                  },
+                  "status": {
+                    "type": "boolean"
                   },
                   "createdAt": {
                     "type": "string",
@@ -8965,6 +8989,9 @@
                                                             "type": "number",
                                                             "format": "float"
                                                           },
+                                                          "status": {
+                                                            "type": "boolean"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -10140,6 +10167,9 @@
                                                           "type": "number",
                                                           "format": "float"
                                                         },
+                                                        "status": {
+                                                          "type": "boolean"
+                                                        },
                                                         "createdAt": {
                                                           "type": "string",
                                                           "format": "date-time"
@@ -11308,6 +11338,9 @@
                                                                         "size": {
                                                                           "type": "number",
                                                                           "format": "float"
+                                                                        },
+                                                                        "status": {
+                                                                          "type": "boolean"
                                                                         },
                                                                         "createdAt": {
                                                                           "type": "string",
@@ -12512,6 +12545,9 @@
                                                                       "size": {
                                                                         "type": "number",
                                                                         "format": "float"
+                                                                      },
+                                                                      "status": {
+                                                                        "type": "boolean"
                                                                       },
                                                                       "createdAt": {
                                                                         "type": "string",
@@ -13823,6 +13859,9 @@
                                                             "type": "number",
                                                             "format": "float"
                                                           },
+                                                          "status": {
+                                                            "type": "boolean"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -15033,6 +15072,9 @@
                                                         "size": {
                                                           "type": "number",
                                                           "format": "float"
+                                                        },
+                                                        "status": {
+                                                          "type": "boolean"
                                                         },
                                                         "createdAt": {
                                                           "type": "string",

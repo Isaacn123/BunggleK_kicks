@@ -13,7 +13,9 @@
   "pluginOptions": {},
   "attributes": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "required": true,
+      "unique": true
     },
     "description": {
       "type": "richtext"
@@ -21,7 +23,7 @@
     "image": {
       "type": "media",
       "multiple": true,
-      "required": false,
+      "required": true,
       "allowedTypes": [
         "images",
         "files",
@@ -33,7 +35,8 @@
       "type": "float"
     },
     "featured": {
-      "type": "boolean"
+      "type": "boolean",
+      "required": true
     },
     "category": {
       "type": "relation",
@@ -74,6 +77,9 @@
     },
     "size": {
       "type": "float"
+    },
+    "status": {
+      "type": "boolean"
     }
   }
 }
