@@ -52,11 +52,7 @@
     },
     "did": {
       "type": "uid",
-      "targetField": "name"
-    },
-    "slug": {
-      "type": "string",
-      "unique": true
+      "required": false
     },
     "colors": {
       "type": "enumeration",
@@ -80,6 +76,10 @@
     },
     "status": {
       "type": "boolean"
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "name"
     }
   }
 }

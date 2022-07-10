@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-10T20:15:03.594Z"
+    "x-generation-date": "2022-07-10T20:40:21.507Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1153,9 +1153,6 @@
                                   "did": {
                                     "type": "string"
                                   },
-                                  "slug": {
-                                    "type": "string"
-                                  },
                                   "colors": {
                                     "type": "string",
                                     "enum": [
@@ -1178,6 +1175,9 @@
                                   },
                                   "status": {
                                     "type": "boolean"
+                                  },
+                                  "slug": {
+                                    "type": "string"
                                   },
                                   "createdAt": {
                                     "type": "string",
@@ -2341,9 +2341,6 @@
                                 "did": {
                                   "type": "string"
                                 },
-                                "slug": {
-                                  "type": "string"
-                                },
                                 "colors": {
                                   "type": "string",
                                   "enum": [
@@ -2366,6 +2363,9 @@
                                 },
                                 "status": {
                                   "type": "boolean"
+                                },
+                                "slug": {
+                                  "type": "string"
                                 },
                                 "createdAt": {
                                   "type": "string",
@@ -3927,9 +3927,6 @@
               "did": {
                 "type": "string"
               },
-              "slug": {
-                "type": "string"
-              },
               "colors": {
                 "type": "string",
                 "enum": [
@@ -3952,6 +3949,9 @@
               },
               "status": {
                 "type": "boolean"
+              },
+              "slug": {
+                "type": "string"
               }
             }
           }
@@ -5314,9 +5314,6 @@
                                               "did": {
                                                 "type": "string"
                                               },
-                                              "slug": {
-                                                "type": "string"
-                                              },
                                               "colors": {
                                                 "type": "string",
                                                 "enum": [
@@ -5339,6 +5336,9 @@
                                               },
                                               "status": {
                                                 "type": "boolean"
+                                              },
+                                              "slug": {
+                                                "type": "string"
                                               },
                                               "createdAt": {
                                                 "type": "string",
@@ -5468,9 +5468,6 @@
                     "did": {
                       "type": "string"
                     },
-                    "slug": {
-                      "type": "string"
-                    },
                     "colors": {
                       "type": "string",
                       "enum": [
@@ -5493,6 +5490,9 @@
                     },
                     "status": {
                       "type": "boolean"
+                    },
+                    "slug": {
+                      "type": "string"
                     },
                     "createdAt": {
                       "type": "string",
@@ -6925,9 +6925,6 @@
                                             "did": {
                                               "type": "string"
                                             },
-                                            "slug": {
-                                              "type": "string"
-                                            },
                                             "colors": {
                                               "type": "string",
                                               "enum": [
@@ -6950,6 +6947,9 @@
                                             },
                                             "status": {
                                               "type": "boolean"
+                                            },
+                                            "slug": {
+                                              "type": "string"
                                             },
                                             "createdAt": {
                                               "type": "string",
@@ -7079,9 +7079,6 @@
                   "did": {
                     "type": "string"
                   },
-                  "slug": {
-                    "type": "string"
-                  },
                   "colors": {
                     "type": "string",
                     "enum": [
@@ -7104,6 +7101,9 @@
                   },
                   "status": {
                     "type": "boolean"
+                  },
+                  "slug": {
+                    "type": "string"
                   },
                   "createdAt": {
                     "type": "string",
@@ -8966,9 +8966,6 @@
                                                           "did": {
                                                             "type": "string"
                                                           },
-                                                          "slug": {
-                                                            "type": "string"
-                                                          },
                                                           "colors": {
                                                             "type": "string",
                                                             "enum": [
@@ -8991,6 +8988,9 @@
                                                           },
                                                           "status": {
                                                             "type": "boolean"
+                                                          },
+                                                          "slug": {
+                                                            "type": "string"
                                                           },
                                                           "createdAt": {
                                                             "type": "string",
@@ -10144,9 +10144,6 @@
                                                         "did": {
                                                           "type": "string"
                                                         },
-                                                        "slug": {
-                                                          "type": "string"
-                                                        },
                                                         "colors": {
                                                           "type": "string",
                                                           "enum": [
@@ -10169,6 +10166,9 @@
                                                         },
                                                         "status": {
                                                           "type": "boolean"
+                                                        },
+                                                        "slug": {
+                                                          "type": "string"
                                                         },
                                                         "createdAt": {
                                                           "type": "string",
@@ -11316,9 +11316,6 @@
                                                                         "did": {
                                                                           "type": "string"
                                                                         },
-                                                                        "slug": {
-                                                                          "type": "string"
-                                                                        },
                                                                         "colors": {
                                                                           "type": "string",
                                                                           "enum": [
@@ -11341,6 +11338,9 @@
                                                                         },
                                                                         "status": {
                                                                           "type": "boolean"
+                                                                        },
+                                                                        "slug": {
+                                                                          "type": "string"
                                                                         },
                                                                         "createdAt": {
                                                                           "type": "string",
@@ -12523,9 +12523,6 @@
                                                                       "did": {
                                                                         "type": "string"
                                                                       },
-                                                                      "slug": {
-                                                                        "type": "string"
-                                                                      },
                                                                       "colors": {
                                                                         "type": "string",
                                                                         "enum": [
@@ -12548,6 +12545,9 @@
                                                                       },
                                                                       "status": {
                                                                         "type": "boolean"
+                                                                      },
+                                                                      "slug": {
+                                                                        "type": "string"
                                                                       },
                                                                       "createdAt": {
                                                                         "type": "string",
@@ -13836,9 +13836,6 @@
                                                           "did": {
                                                             "type": "string"
                                                           },
-                                                          "slug": {
-                                                            "type": "string"
-                                                          },
                                                           "colors": {
                                                             "type": "string",
                                                             "enum": [
@@ -13861,6 +13858,9 @@
                                                           },
                                                           "status": {
                                                             "type": "boolean"
+                                                          },
+                                                          "slug": {
+                                                            "type": "string"
                                                           },
                                                           "createdAt": {
                                                             "type": "string",
@@ -15050,9 +15050,6 @@
                                                         "did": {
                                                           "type": "string"
                                                         },
-                                                        "slug": {
-                                                          "type": "string"
-                                                        },
                                                         "colors": {
                                                           "type": "string",
                                                           "enum": [
@@ -15075,6 +15072,9 @@
                                                         },
                                                         "status": {
                                                           "type": "boolean"
+                                                        },
+                                                        "slug": {
+                                                          "type": "string"
                                                         },
                                                         "createdAt": {
                                                           "type": "string",
